@@ -15,7 +15,7 @@
 <samp>
 A curious explorer across domains — <b>AI agents &amp; LLM tooling</b>,<br>
 <b>Android system mods</b>, <b>password management &amp; security</b>,<br>
-<b>proxy &amp; network ops</b>, <b>input methods</b>, and more.<br>
+<b>network ops</b>, <b>input methods</b>, and more.<br>
 440+ starred repos tell the story of where curiosity leads.
 </samp>
 
