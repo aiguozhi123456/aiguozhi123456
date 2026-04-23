@@ -93,6 +93,15 @@ System-level security
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aiguozhi123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 </picture>
 
+<br/>
+
+<!-- Contribution graph - dark/light -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=0d1117&color=58a6ff&line=58a6ff&point=0d1117&area=true&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=ffffff&color=0969da&line=0969da&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=0d1117&color=58a6ff&line=58a6ff&point=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+</picture>
+
 ---
 
 ## 🚀 Featured Projects
