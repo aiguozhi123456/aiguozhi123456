@@ -20,9 +20,10 @@
 ## `>_ whoami`
 
 <samp>
-Curious about <b>AI agents</b>, <b>Android system mods</b>, <b>proxy &amp; privacy</b>,<br>
-<b>password management</b>, <b>network ops</b>, <b>input methods</b>, and <b>LLM tooling</b>.<br>
-Stars tell the story — 440+ repos and counting.
+A curious explorer across domains — <b>AI agents &amp; LLM tooling</b>,<br>
+<b>Android system mods</b>, <b>password management &amp; security</b>,<br>
+<b>proxy &amp; network ops</b>, <b>input methods</b>, and more.<br>
+440+ starred repos tell the story of where curiosity leads.
 </samp>
 
 ---
@@ -31,14 +32,19 @@ Stars tell the story — 440+ repos and counting.
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">
+<th width="33%" align="center">
 
 🤖 **AI Agents**
 
 </th>
-<th width="50%" align="center">
+<th width="33%" align="center">
 
 📱 **Android Mods**
+
+</th>
+<th width="33%" align="center">
+
+🔐 **Password & Security**
 
 </th>
 </tr>
@@ -52,37 +58,16 @@ LLM tooling & integrations
 </td>
 <td align="center">
 
-Magisk / KernelSU / APatch modules<br>
+Magisk / KernelSU modules<br>
 Input method keyboards<br>
 System-level tweaks
 
 </td>
-</tr>
-<tr>
-<th width="50%" align="center">
-
-🔐 **Password & Security**
-
-</th>
-<th width="50%" align="center">
-
-🌐 **Network Ops**
-
-</th>
-</tr>
-<tr>
 <td align="center">
 
 Password managers<br>
 2FA generators<br>
 System-level security
-
-</td>
-<td align="center">
-
-Proxy &amp; VPN (Clash / sing-box)<br>
-DNS / AdGuard<br>
-Server hardening &amp; UFW
 
 </td>
 </tr>
