@@ -108,52 +108,40 @@ System-level security
 <tr>
 <td width="50%">
 
-<h3 align="center">
-  <a href="https://github.com/nicepkg/nanobot">
-    <img src="https://img.shields.io/badge/SPR-repo-181717?style=flat-square&logo=github&logoColor=white" valign="middle" />
-  </a>
-  &nbsp;🐈 nanobot
+<h3>
+  <a href="https://github.com/HKUDS/nanobot">🐈 nanobot</a>
 </h3>
 
-<p align="center"><samp>Ultra-lightweight AI agent framework.<br/>Contributor — 6+ merged PRs.</samp></p>
+<samp>Ultra-lightweight AI agent framework. Contributor — 6+ merged PRs.</samp>
 
 </td>
 <td width="50%">
 
-<h3 align="center">
-  <a href="https://github.com/aiguozhi123456/package-skill">
-    <img src="https://img.shields.io/badge/SPR-repo-181717?style=flat-square&logo=github&logoColor=white" valign="middle" />
-  </a>
-  &nbsp;📦 package-skill
+<h3>
+  <a href="https://github.com/aiguozhi123456/package-skill">📦 package-skill</a>
 </h3>
 
-<p align="center"><samp>Bundle AI agent skills into one package<br/>with internal dispatch. Published on ClawHub.</samp></p>
+<samp>Bundle AI agent skills into one package with internal dispatch. Published on ClawHub.</samp>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3 align="center">
-  <a href="https://github.com/aiguozhi123456/zeroclaw-magisk">
-    <img src="https://img.shields.io/badge/SPR-repo-181717?style=flat-square&logo=github&logoColor=white" valign="middle" />
-  </a>
-  &nbsp;⚙️ zeroclaw-magisk
+<h3>
+  <a href="https://github.com/aiguozhi123456/zeroclaw-magisk">⚙️ zeroclaw-magisk</a>
 </h3>
 
-<p align="center"><samp>zeroclaw on Magisk / KernelSU / APatch.<br/>System-level Android modifications.</samp></p>
+<samp>zeroclaw on Magisk / KernelSU / APatch. System-level Android modifications.</samp>
 
 </td>
 <td width="50%">
 
-<h3 align="center">
-  <a href="https://github.com/JoyinJoester/Monica">
-    <img src="https://img.shields.io/badge/SPR-repo-181717?style=flat-square&logo=github&logoColor=white" valign="middle" />
-  </a>
-  &nbsp;🔐 Monica
+<h3>
+  <a href="https://github.com/JoyinJoester/Monica">🔐 Monica</a>
 </h3>
 
-<p align="center"><samp>Password management & 2FA generator.<br/>Keep your credentials safe.</samp></p>
+<samp>Password management & 2FA generator. Keep your credentials safe.</samp>
 
 </td>
 </tr>
