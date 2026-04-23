@@ -109,7 +109,7 @@ System-level security
 <td width="50%">
 
 <h3 align="center">
-  <a href="https://github.com/aiguozhi123456/nanobot">
+  <a href="https://github.com/nicepkg/nanobot">
     <img src="https://img.shields.io/badge/SPR-repo-181717?style=flat-square&logo=github&logoColor=white" valign="middle" />
   </a>
   &nbsp;🐈 nanobot
@@ -147,7 +147,7 @@ System-level security
 <td width="50%">
 
 <h3 align="center">
-  <a href="https://github.com/aiguozhi123456/Monica">
+  <a href="https://github.com/JoyinJoester/Monica">
     <img src="https://img.shields.io/badge/SPR-repo-181717?style=flat-square&logo=github&logoColor=white" valign="middle" />
   </a>
   &nbsp;🔐 Monica
