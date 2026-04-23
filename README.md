@@ -1,17 +1,10 @@
 <div align="center">
 
-<!-- HEADER: auto light/dark -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=agents%20%2B%20android%20%2B%20security%20%2B%20networking&descSize=16&descColor=8b949e&descAlignY=55" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:ffffff&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=0969da&fontAlignY=35&desc=agents%20%2B%20android%20%2B%20security%20%2B%20networking&descSize=16&descColor=656d76&descAlignY=55" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=agents%20%2B%20android%20%2B%20security%20%2B%20networking&descSize=16&descColor=8b949e&descAlignY=55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" alt="Typing SVG" />
 </picture>
-
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-aiguozhi123456-181717?style=flat-square&logo=github&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-aiguozhi123456-f6f8fa?style=flat-square&logo=github&logoColor=24292f#gh-light-mode-only)](https://github.com/aiguozhi123456)
 
 </div>
 
