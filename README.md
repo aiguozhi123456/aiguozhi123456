@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Building%20agents%20%2B%20Android%20mods%20%2B%20security%20tools&descSize=16&descColor=8b949e&descAlignY=55" />
-
-<!-- Light mode header -->
+<!-- HEADER: auto light/dark -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Building%20agents%20%2B%20Android%20mods%20%2B%20security%20tools&descSize=16&descColor=8b949e&descAlignY=55" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:ffffff&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=0969da&fontAlignY=35&desc=Building%20agents%20%2B%20Android%20mods%20%2B%20security%20tools&descSize=16&descColor=656d76&descAlignY=55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=agents%20%2B%20android%20%2B%20security%20%2B%20networking&descSize=16&descColor=8b949e&descAlignY=55" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:ffffff&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=0969da&fontAlignY=35&desc=agents%20%2B%20android%20%2B%20security%20%2B%20networking&descSize=16&descColor=656d76&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=wuyiyi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=agents%20%2B%20android%20%2B%20security%20%2B%20networking&descSize=16&descColor=8b949e&descAlignY=55" />
 </picture>
 
 </div>
@@ -22,29 +20,25 @@
 ## `>_ whoami`
 
 <samp>
-A developer who splits time between <b>AI agents</b>, <b>Android system mods</b>, and <b>security tooling</b>.<br>
-Believes the best tools are the ones you build yourself.
+Curious about <b>AI agents</b>, <b>Android system mods</b>, <b>proxy &amp; privacy</b>,<br>
+<b>password management</b>, <b>network ops</b>, <b>input methods</b>, and <b>LLM tooling</b>.<br>
+Stars tell the story — 440+ repos and counting.
 </samp>
 
 ---
 
-## 🧭 What I Build
+## 🧭 Focus Areas
 
 <table width="100%">
 <tr>
-<th width="33%" align="center">
+<th width="50%" align="center">
 
 🤖 **AI Agents**
 
 </th>
-<th width="33%" align="center">
+<th width="50%" align="center">
 
 📱 **Android Mods**
-
-</th>
-<th width="33%" align="center">
-
-🔐 **Password & Security**
 
 </th>
 </tr>
@@ -58,16 +52,37 @@ LLM tooling & integrations
 </td>
 <td align="center">
 
-Magisk / KernelSU modules<br>
+Magisk / KernelSU / APatch modules<br>
 Input method keyboards<br>
 System-level tweaks
 
 </td>
+</tr>
+<tr>
+<th width="50%" align="center">
+
+🔐 **Password & Security**
+
+</th>
+<th width="50%" align="center">
+
+🌐 **Network Ops**
+
+</th>
+</tr>
+<tr>
 <td align="center">
 
 Password managers<br>
 2FA generators<br>
 System-level security
+
+</td>
+<td align="center">
+
+Proxy &amp; VPN (Clash / sing-box)<br>
+DNS / AdGuard<br>
+Server hardening &amp; UFW
 
 </td>
 </tr>
