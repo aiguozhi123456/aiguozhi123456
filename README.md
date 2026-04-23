@@ -142,6 +142,26 @@ System-level security
 
 ---
 
+## 🤝 Open Source Activity
+
+<samp>
+
+Contributing to [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) — the ultra-lightweight AI agent framework.
+
+| PR | Description |
+|---|---|
+| [#3336](https://github.com/HKUDS/nanobot/pull/3336) | `feat` read_file DOCX, XLSX, PPTX office document support |
+| [#3312](https://github.com/HKUDS/nanobot/pull/3312) | `fix` session atomic writes and corrupt-file repair |
+| [#3263](https://github.com/HKUDS/nanobot/pull/3263) | `feat` guide LLM to read session history |
+| [#3150](https://github.com/HKUDS/nanobot/pull/3150) | `fix` retry termination notification to interaction channel |
+| [#3149](https://github.com/HKUDS/nanobot/pull/3149) | `feat` show active task count in /status output |
+| [#1278](https://github.com/HKUDS/nanobot/pull/1278) | `fix` guide LLM grep using timestamp |
+| [#1083](https://github.com/HKUDS/nanobot/pull/1083) | `feat` path_append config to extend PATH for subprocess |
+
+</samp>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
