@@ -111,7 +111,7 @@ System-level security
 <td width="50%">
 
 <h3>
-  <a href="https://github.com/HKUDS/nanobot">🐈 nanobot</a>
+  🐈 <a href="https://github.com/HKUDS/nanobot">nanobot</a>
 </h3>
 
 <samp>Ultra-lightweight AI agent framework. Contributor — 6+ merged PRs.</samp>
@@ -120,7 +120,7 @@ System-level security
 <td width="50%">
 
 <h3>
-  <a href="https://github.com/aiguozhi123456/package-skill">📦 package-skill</a>
+  📦 <a href="https://github.com/aiguozhi123456/package-skill">package-skill</a>
 </h3>
 
 <samp>Bundle AI agent skills into one package with internal dispatch. Published on ClawHub.</samp>
@@ -131,7 +131,7 @@ System-level security
 <td width="50%">
 
 <h3>
-  <a href="https://github.com/aiguozhi123456/zeroclaw-magisk">⚙️ zeroclaw-magisk</a>
+  ⚙️ <a href="https://github.com/aiguozhi123456/zeroclaw-magisk">zeroclaw-magisk</a>
 </h3>
 
 <samp>Lightweight AI agent infrastructure on Android via Magisk / KernelSU. RAM &lt;20MB, with WebUI chat.</samp>
@@ -140,10 +140,10 @@ System-level security
 <td width="50%">
 
 <h3>
-  <a href="https://github.com/JoyinJoester/Monica">🔐 Monica</a>
+  🔐 <a href="https://github.com/JoyinJoester/Monica">Monica</a>
 </h3>
 
-<samp>Password management & 2FA generator. Contributor — Gecko engine support, TOTP import fixes.</samp>
+<samp>Password management & 2FA generator. Contributor — Gecko engine support, Android 8 compatibility.</samp>
 
 </td>
 </tr>
@@ -161,7 +161,7 @@ Contributing to [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) and [**Joy
 |---|---|
 | [nanobot#3336](https://github.com/HKUDS/nanobot/pull/3336) | `feat` read_file DOCX, XLSX, PPTX office document support |
 | [nanobot#3312](https://github.com/HKUDS/nanobot/pull/3312) | `fix` session atomic writes and corrupt-file repair |
-| [Monica#21](https://github.com/JoyinJoester/Monica/pull/21) | `feat` Gecko engine support, fix TOTP import errors |
+| [Monica#21](https://github.com/JoyinJoester/Monica/pull/21) | `feat` Gecko engine support, Android 8 compatibility |
 
 </samp>
 
