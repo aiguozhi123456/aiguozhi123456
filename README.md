@@ -134,7 +134,7 @@ System-level security
   <a href="https://github.com/aiguozhi123456/zeroclaw-magisk">⚙️ zeroclaw-magisk</a>
 </h3>
 
-<samp>zeroclaw on Magisk / KernelSU / APatch. System-level Android modifications.</samp>
+<samp>Lightweight AI agent infrastructure on Android via Magisk / KernelSU. RAM &lt;20MB, with WebUI chat.</samp>
 
 </td>
 <td width="50%">
@@ -143,7 +143,7 @@ System-level security
   <a href="https://github.com/JoyinJoester/Monica">🔐 Monica</a>
 </h3>
 
-<samp>Password management & 2FA generator. Keep your credentials safe.</samp>
+<samp>Password management & 2FA generator. Contributor — Gecko engine support, TOTP import fixes.</samp>
 
 </td>
 </tr>
