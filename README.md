@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=0D9488&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Hey+there%2C+I'm+wuyiyi+%F0%9F%91%8B" alt="Typing SVG" />
 </picture>
 
 </div>
 
 ---
 
-## `>_ whoami`
+## 01 — whoami
 
 <samp>
 A curious explorer across domains — <b>AI agents &amp; LLM tooling</b>,<br>
@@ -21,90 +21,7 @@ A curious explorer across domains — <b>AI agents &amp; LLM tooling</b>,<br>
 
 ---
 
-## 🧭 Focus Areas
-
-<table width="100%">
-<tr>
-<th width="33%" align="center">
-
-🤖 **AI Agents**
-
-</th>
-<th width="33%" align="center">
-
-📱 **Android Mods**
-
-</th>
-<th width="33%" align="center">
-
-🔐 **Password & Security**
-
-</th>
-</tr>
-<tr>
-<td align="center">
-
-Agent frameworks<br>
-Skill packaging systems<br>
-LLM tooling & integrations
-
-</td>
-<td align="center">
-
-Magisk / KernelSU modules<br>
-Input method keyboards<br>
-System-level tweaks
-
-</td>
-<td align="center">
-
-Password managers<br>
-2FA generators<br>
-System-level security
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Stats
-
-<!-- Dark mode stats -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aiguozhi123456&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aiguozhi123456&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da" />
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aiguozhi123456&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-</picture>
-
-<!-- Dark mode top langs -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aiguozhi123456&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aiguozhi123456&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiguozhi123456&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</picture>
-
-<br/>
-
-<!-- Streak stats - dark/light -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aiguozhi123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aiguozhi123456&theme=github&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292F&dates=555555" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aiguozhi123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
-</picture>
-
-<br/>
-
-<!-- Contribution graph - dark/light -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=0d1117&color=58a6ff&line=58a6ff&point=0d1117&area=true&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=ffffff&color=0969da&line=0969da&point=ffffff&area=true&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=0d1117&color=58a6ff&line=58a6ff&point=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
-</picture>
-
----
-
-## 🚀 Featured Projects
+## 02 — Featured Projects
 
 <table width="100%">
 <tr>
@@ -114,7 +31,7 @@ System-level security
   🐈 <a href="https://github.com/HKUDS/nanobot">nanobot</a>
 </h3>
 
-<samp>Ultra-lightweight AI agent framework. Contributor — 6+ merged PRs.</samp>
+<samp>Ultra-lightweight AI agent framework. Contributor — 7 merged PRs.</samp>
 
 </td>
 <td width="50%">
@@ -147,11 +64,31 @@ System-level security
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+<h3>
+  🖥️ <a href="https://github.com/aiguozhi123456/nanobot-windows-gui">nanobot-windows-gui</a>
+</h3>
+
+<samp>Native Win32 dashboard to start, stop, and monitor nanobot gateway processes.</samp>
+
+</td>
+<td width="50%">
+
+<h3>
+  🔍 <a href="https://github.com/aiguozhi123456/juso-search">juso-search</a>
+</h3>
+
+<samp>Two-sided search gateway with locally managed credentials — for humans and local AI agents.</samp>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🤝 Open Source Activity
+## 03 — Open Source Activity
 
 <samp>
 
@@ -167,7 +104,90 @@ Contributing to [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) and [**Joy
 
 ---
 
-## 🛠️ Tech Stack
+## 04 — Focus Areas
+
+<table width="100%">
+<tr>
+<th width="33%" align="center">
+
+**AI Agents**
+
+</th>
+<th width="33%" align="center">
+
+**Android Mods**
+
+</th>
+<th width="33%" align="center">
+
+**Password & Security**
+
+</th>
+</tr>
+<tr>
+<td align="center">
+
+Agent frameworks<br>
+Skill packaging systems<br>
+LLM tooling & integrations
+
+</td>
+<td align="center">
+
+Magisk / KernelSU modules<br>
+Input method keyboards<br>
+System-level tweaks
+
+</td>
+<td align="center">
+
+Password managers<br>
+2FA generators<br>
+System-level security
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 — Stats
+
+<!-- Dark mode stats -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aiguozhi123456&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aiguozhi123456&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0d9488&icon_color=0d9488&text_color=24292f&ring_color=0d9488" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aiguozhi123456&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9" alt="GitHub Stats" />
+</picture>
+
+<!-- Dark mode top langs -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aiguozhi123456&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aiguozhi123456&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0d9488&text_color=24292f&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiguozhi123456&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</picture>
+
+<br/>
+
+<!-- Streak stats - dark/light -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aiguozhi123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=555555" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=aiguozhi123456&theme=github&hide_border=true&background=FFFFFF&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&sideLabels=24292F&dates=555555" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aiguozhi123456&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+</picture>
+
+<br/>
+
+<!-- Contribution graph - dark/light -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=0d1117&area=true&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=ffffff&color=0d9488&line=0d9488&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiguozhi123456&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+</picture>
+
+---
+
+## 06 — Tech Stack
 
 <div align="center">
 
@@ -186,5 +206,5 @@ Contributing to [**HKUDS/nanobot**](https://github.com/HKUDS/nanobot) and [**Joy
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aiguozhi123456&style=flat-square&color=58a6ff" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aiguozhi123456&style=flat-square&color=2dd4bf" alt="Profile Views" />
 </div>
