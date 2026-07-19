@@ -25,61 +25,49 @@ A curious explorer across domains — <b>AI agents &amp; LLM tooling</b>,<br>
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td>
 
-<h3>
-  🐈 <a href="https://github.com/HKUDS/nanobot">nanobot</a>
-</h3>
-
+<h3>🐈 <a href="https://github.com/HKUDS/nanobot">nanobot</a></h3>
 <samp>Ultra-lightweight AI agent framework. Contributor — 7 merged PRs.</samp>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
-<h3>
-  📦 <a href="https://github.com/aiguozhi123456/package-skill">package-skill</a>
-</h3>
-
+<h3>📦 <a href="https://github.com/aiguozhi123456/package-skill">package-skill</a></h3>
 <samp>Bundle AI agent skills into one package with internal dispatch. Published on ClawHub.</samp>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-<h3>
-  ⚙️ <a href="https://github.com/aiguozhi123456/zeroclaw-magisk">zeroclaw-magisk</a>
-</h3>
-
+<h3>⚙️ <a href="https://github.com/aiguozhi123456/zeroclaw-magisk">zeroclaw-magisk</a></h3>
 <samp>Lightweight AI agent infrastructure on Android via Magisk / KernelSU. RAM &lt;20MB, with WebUI chat.</samp>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
-<h3>
-  🔐 <a href="https://github.com/JoyinJoester/Monica">Monica</a>
-</h3>
-
+<h3>🔐 <a href="https://github.com/JoyinJoester/Monica">Monica</a></h3>
 <samp>Password management & 2FA generator. Contributor — Gecko engine support, Android 8 compatibility.</samp>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-<h3>
-  🖥️ <a href="https://github.com/aiguozhi123456/nanobot-windows-gui">nanobot-windows-gui</a>
-</h3>
-
+<h3>🖥️ <a href="https://github.com/aiguozhi123456/nanobot-windows-gui">nanobot-windows-gui</a></h3>
 <samp>Native Win32 dashboard to start, stop, and monitor nanobot gateway processes.</samp>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
-<h3>
-  🔍 <a href="https://github.com/aiguozhi123456/juso-search">juso-search</a>
-</h3>
-
+<h3>🔍 <a href="https://github.com/aiguozhi123456/juso-search">juso-search</a></h3>
 <samp>Two-sided search gateway with locally managed credentials — for humans and local AI agents.</samp>
 
 </td>
